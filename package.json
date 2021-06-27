@@ -1,0 +1,25 @@
+{
+  "name": "3d_parts_plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajisrael/3D_parts_plus.git"
+  },
+  "author": "Alex Israels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajisrael/3D_parts_plus/issues"
+  },
+  "homepage": "https://github.com/ajisrael/3D_parts_plus#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  }
+}
